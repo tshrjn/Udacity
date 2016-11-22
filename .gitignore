@@ -68,3 +68,17 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+#Compressed objs
+*.tar
+*.zip
+*.gz
+*.tgz
+*.dmg
+*.7z
+*.iso
+*.rar
+*.jar
+
+#MailDir- uncompressed
+maildir/
